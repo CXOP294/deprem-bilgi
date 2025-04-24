@@ -115,4 +115,5 @@ DepremTakip açık kaynaklı bir projedir ve MIT lisansı altında dağıtılmak
 ---
 
 Depremler hakkında bilgi sahibi olmak, afetlere karşı hazırlıklı olmak için önemli bir adımdır. Güvende kalın! 🌍🏠
-[![Discord Banner](https://api.weblutions.com/discord/invite/bdfd/)](https://discord.gg/vsc)
+
+[![Discord Banner](https://api.weblutions.com/discord/invite/vsc/)](https://discord.gg/vsc)
