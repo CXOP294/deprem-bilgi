@@ -4,7 +4,7 @@
 
 ## 🌐 Demo
 
-Canlı Demo: [deprem-takip.vercel.app](https://deprem-bilgii.vercel.app/)
+Canlı Demo: [deprem-bilgii.vercel.app](https://deprem-bilgii.vercel.app/)
 
 ## 🌟 Özellikler
 
